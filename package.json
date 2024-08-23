@@ -1,0 +1,13 @@
+{
+  "name": "calorias-app",
+  "version": "1.0.0",
+  "description": "Aplicación para calcular calorías",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7"
+  }
+}
